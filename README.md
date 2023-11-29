@@ -1,3 +1,9 @@
+# Level Down
+
+This website was made to bring awareness and provide resources to people who either suffer from gaming addiciton or want to find out more information regarding gaming addiciton. 
+
+This website was created by Hannah Lee and Jsaon Bang. 
+
 Links:
 
 - [Website published on Github Pages (inital version)](https://jxbang94.github.io/Website/index.html)
